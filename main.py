@@ -1,3 +1,4 @@
+# This code has been taken from the Udacity Github Repository
 """
 A simple app to create a JWT token.
 """

@@ -1,3 +1,4 @@
+# This code has been taken from the Udacity Github Repository
 '''
 Tests for jwt flask app.
 '''
